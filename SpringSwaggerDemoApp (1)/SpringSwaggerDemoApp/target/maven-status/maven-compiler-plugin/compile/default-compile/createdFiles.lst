@@ -1,0 +1,5 @@
+com\springswaggerdemo\SpringSwaggerDemoApp\SpringSwaggerDemoAppApplication.class
+com\springswaggerdemo\SpringSwaggerDemoApp\service\BookService.class
+com\springswaggerdemo\SpringSwaggerDemoApp\repository\BookRepository.class
+com\springswaggerdemo\SpringSwaggerDemoApp\controller\BookController.class
+com\springswaggerdemo\SpringSwaggerDemoApp\model\Book.class
